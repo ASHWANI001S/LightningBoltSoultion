@@ -23,6 +23,7 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
+    <serverIsDown>SNA_ZHZiq_sf_default_cdn_CtkProviderCommunity1</serverIsDown>
     <siteAdmin>ashwanisaklani75-2t7y@force.com</siteAdmin>
     <siteGuestRecordDefaultOwner>ashwanisaklani75-2t7y@force.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
